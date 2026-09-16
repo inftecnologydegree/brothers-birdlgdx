@@ -1,0 +1,11 @@
+buttons.png
+size:2048,128
+repeat:none
+exit_down
+bounds:2,2,343,100
+exit_up
+bounds:692,2,343,100
+newgame_down
+bounds:1037,2,343,100
+newgame_up
+bounds:347,2,343,100

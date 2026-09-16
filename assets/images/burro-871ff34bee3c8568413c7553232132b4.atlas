@@ -1,0 +1,13 @@
+burro.png
+size:1024,256
+repeat:none
+building
+bounds:172,13,178,150
+button
+bounds:684,13,150,150
+coin
+bounds:532,19,150,144
+montain
+bounds:352,38,178,125
+window
+bounds:2,2,168,161
